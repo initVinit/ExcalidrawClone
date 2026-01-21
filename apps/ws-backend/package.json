@@ -12,13 +12,13 @@
   "dependencies": {
     "@types/jsonwebtoken": "^9.0.10",
     "jsonwebtoken": "^9.0.3",
+    "@repo/db": "workspace:*",
     "ws": "^8.19.0"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "@repo/backend-common": "workspace:*",
     "@repo/common": "workspace:*",
-    "@repo/db": "workspace:*",
     "@types/ws": "^8.18.1"
   },
   "keywords": [],
